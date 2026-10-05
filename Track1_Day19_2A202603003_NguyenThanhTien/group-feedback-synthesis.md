@@ -5,7 +5,7 @@ Tên file giữ theo cấu trúc Day 19. Bản tổng hợp này đối chiếu 
 | Tiêu chí | A — Tôi chọn trước | B — AI gợi ý trước | C — AI tự tạo ngay |
 | --- | --- | --- | --- |
 | First action | Tìm trang 6 và 14, đánh dấu **Giữ/Chưa hiểu**. | Xem gợi ý, giữ ý mô hình ngôn ngữ, thêm trang 83. | Đọc ghi chú tự hiện khi mở C. |
-| Điểm vướng | Phải tự tìm và chọn trang trước khi có note. | Gợi ý bỏ sót trang 83; nút thêm trang nằm ở cột giữa. | Ghi chú đã hiện nhưng chưa chắc bao quát hình/sơ đồ. |
+| Điểm vướng | Phải tự tìm và chọn trang trước khi có note. | Gợi ý bỏ sót; nút thêm trang nằm ở cột giữa. | Ghi chú đã hiện nhưng chưa chắc bao quát hình/sơ đồ. |
 | Evidence | Trang 6 và 14 được ghi rõ. | Trang của gợi ý và trang 83 được ghi rõ. | Các chủ đề có nút về trang nguồn. |
 | Recovery | Đổi đánh dấu, tổng hợp lại hoặc sửa note. | Thêm/bỏ trang, tạo lại hoặc sửa note. | Mở nguồn, sửa, bỏ nháp hoặc tạo lại. |
 | Trade-off | Kiểm soát nội dung cao, tốn công chọn. | Có điểm bắt đầu nhanh và vẫn bổ sung được ý thiếu. | Ít thao tác nhất, cần kiểm tra đầu ra kỹ nhất. |

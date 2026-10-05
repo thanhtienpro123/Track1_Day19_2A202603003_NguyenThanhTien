@@ -22,7 +22,7 @@ Parking Lot Day 17 gồm: mẫu ghi chú tự điền, link tài nguyên liên q
 | Situation | Cần giữ lại kiến thức để ôn sau bài. |
 | Task | Tạo một ghi chú ngắn về bài học. |
 | Desired outcome | Ghi chú có ý quan trọng, chỗ cần tìm hiểu thêm, phần cá nhân và trang nguồn; chỉ lưu khi người học xác nhận. |
-| Content/data fixture | Cùng PDF 94 trang, cùng ảnh slide, cùng bộ chữ trích, cùng bố cục ba cột. |
+| Content/data fixture | PDF 94 trang, cùng ảnh slide, cùng bộ chữ trích, cùng bố cục ba cột. |
 
 | Quyết định | A — Tôi chọn trước | B — AI gợi ý trước | C — AI tự tạo ngay |
 | --- | --- | --- | --- |
@@ -54,7 +54,7 @@ Parking Lot Day 17 gồm: mẫu ghi chú tự điền, link tài nguyên liên q
 | Critical interaction | Đánh dấu **Giữ/Chưa hiểu** trên slide 6 và 14. | Giữ gợi ý về mô hình ngôn ngữ; thêm slide 83 nếu thấy AI bỏ sót. | Mở C và đọc bản nháp tự xuất hiện. |
 | Result/decision | Đối chiếu trang nguồn, sửa và lưu/bỏ. | Đối chiếu trang nguồn, sửa và lưu/bỏ. | Đối chiếu sáu chủ đề với slide nguồn, sửa và lưu/bỏ. |
 
-File [prototype.html](prototype.html) chứa ba luồng trong một giao diện. Cột trái là ba cơ chế, cột giữa là ảnh của 94 trang PDF, cột phải là gợi ý hoặc ghi chú. Nút trên ghi chú nhảy về slide nguồn. [PowerPoint một slide](note-mockup-llms.pptx) minh họa bố cục; thao tác thực hiện trong HTML. Để reset về ngữ cảnh chung, dùng nút **Đặt lại bài thử** ở đầu trang.
+File [prototype.html](../prototype.html) chứa ba luồng trong một giao diện. Cột trái là ba cơ chế, cột giữa là ảnh của 94 trang PDF, cột phải là gợi ý hoặc ghi chú. Nút trên ghi chú nhảy về slide nguồn. [PowerPoint một slide](../note-mockup-llms.pptx) minh họa bố cục; thao tác thực hiện trong HTML. Để reset về ngữ cảnh chung, dùng nút **Đặt lại bài thử** ở đầu trang.
 
 **Prototype annotations — ngoài màn hình thử:**
 

@@ -8,9 +8,8 @@ Tôi dùng AI như công cụ hỗ trợ phân tích đề, triển khai prototy
 | Chọn cơ chế | Gợi spectrum người học chọn → duyệt gợi ý → hệ thống tự tạo. | Chốt A chọn slide trước, B duyệt gợi ý trước, C tự tạo note khi mở. Ba cách khác ở thời điểm quyết định, không chỉ ở giao diện. |
 | Tạo dữ liệu mẫu | Trích phần chữ và tạo 94 ảnh slide từ PDF Introduction to LLMs. | Dùng cùng một bài học; mỗi ý trong ghi chú có số trang để người học kiểm tra. |
 | Viết mã | Hỗ trợ HTML/CSS/JavaScript cho bố cục ba cột, các nút chọn slide, gợi ý, tạo nháp, sửa, lưu và đặt lại. | Giữ thao tác Chrome offline, font tiếng Việt Be Vietnam Pro, và không tự lưu ghi chú C. |
-| Trình bày | Tạo một slide PowerPoint minh họa giao diện. | Dùng PPTX để thuyết trình, HTML để thao tác thật. |
-| Rà sản phẩm | Kiểm tra các luồng A/B/C, nguồn, chỉnh sửa, lưu, bỏ, tạo lại và reset. | Bổ sung đường **Thêm trang này vào B** để người học sửa trường hợp AI gợi thiếu. |
-| Viết báo cáo | Hỗ trợ sắp xếp Design Sheet, Feedback Note và bản tổng hợp. | Giữ tách biệt lời kể Day 17, kết quả kiểm thử giao diện và diễn giải của tôi. |
+
+
 
 ## Lỗi và giới hạn tôi nhận ra khi rà lại
 

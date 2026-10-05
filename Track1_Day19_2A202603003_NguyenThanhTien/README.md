@@ -1,6 +1,6 @@
 # Case B AI Notes — ba cách tạo ghi chú từ một bài học LLM
 
-Đây là bài nộp cá nhân của **Nguyễn Thành Tiến — 2A202603003** cho lab thiết kế Human–AI. Tôi dùng cùng một bài học 94 slide để so sánh ba cách chia việc giữa người học và hệ thống: tự chọn nội dung, duyệt gợi ý, hoặc nhận ghi chú tự động. File [prototype.html](../prototype.html) là bản có thể thao tác; [slide PowerPoint](../note-mockup-llms.pptx) là hình minh họa để trình bày.
+Đây là bài nộp cá nhân của **Nguyễn Thành Tiến — 2A202603003** cho lab thiết kế Human–AI. Tôi dùng cùng một bài học 94 slide để so sánh ba cách chia việc giữa người học và hệ thống: tự chọn nội dung, duyệt gợi ý, hoặc nhận ghi chú tự động. File [prototype.html](prototype.html) là bản có thể thao tác; [slide PowerPoint](note-mockup-llms.pptx) là hình minh họa để trình bày.
 
 ## 1. Thông tin bài làm
 
@@ -18,9 +18,9 @@
 
 | Option | Cơ chế | Quyền quyết định trước khi có ghi chú |
 | --- | --- | --- |
-| [A — Tôi chọn trước](../prototype.html?option=A) | Đánh dấu slide **Giữ** hoặc **Chưa hiểu**, rồi yêu cầu tổng hợp. | Người học quyết định nội dung đầu vào. |
-| [B — AI gợi ý trước](../prototype.html?option=B) | Xem bốn gợi ý, giữ ý phù hợp hoặc thêm slide bị bỏ sót, rồi tạo ghi chú. | Người học duyệt đề xuất trước khi hệ thống soạn. |
-| [C — AI tự tạo ngay](../prototype.html?option=C) | Mở C là ghi chú xuất hiện từ chữ đã trích của bài PDF mẫu. | Hệ thống khởi tạo; người học đối chiếu và quyết định lưu. |
+| [A — Tôi chọn trước](prototype.html?option=A) | Đánh dấu slide **Giữ** hoặc **Chưa hiểu**, rồi yêu cầu tổng hợp. | Người học quyết định nội dung đầu vào. |
+| [B — AI gợi ý trước](prototype.html?option=B) | Xem bốn gợi ý, giữ ý phù hợp hoặc thêm slide bị bỏ sót, rồi tạo ghi chú. | Người học duyệt đề xuất trước khi hệ thống soạn. |
+| [C — AI tự tạo ngay](prototype.html?option=C) | Mở C là ghi chú xuất hiện từ chữ đã trích của bài PDF mẫu. | Hệ thống khởi tạo; người học đối chiếu và quyết định lưu. |
 
 Giao diện gồm **cột trái chọn A/B/C, cột giữa xem slide, cột phải xem ghi chú**. Cả ba dùng cùng PDF, cùng mục tiêu tạo một ghi chú có thể tìm lại nguồn. Ở mỗi cách, người học có thể mở slide nguồn, sửa, bỏ hoặc xác nhận lưu ghi chú; nút **Đặt lại bài thử** đưa về trạng thái ban đầu.
 
@@ -36,4 +36,4 @@ Tôi giữ Case B từ Day 17, chốt cùng một vấn đề và một bài h�
 
 ## 6. AI Support Log
 
-[AI Support Log](ai-support-log.md) nêu cụ thể việc AI hỗ trợ, đầu ra được giữ, lỗi/giới hạn được sửa trong prototype và phạm vi của phần mô phỏng. [agent.md](../agent.md) ghi quy tắc bảo trì bản nộp; Taste Skill được lưu tại `.agents/skills/design-taste-frontend/`.
+[AI Support Log](ai-support-log.md) nêu cụ thể việc AI hỗ trợ, đầu ra được giữ, lỗi/giới hạn được sửa trong prototype và phạm vi của phần mô phỏng.

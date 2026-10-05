@@ -1,6 +1,6 @@
 # Case B AI Notes — ba cách tạo ghi chú từ một bài học LLM
 
-Đây là bài nộp cá nhân của **Nguyễn Thành Tiến — 2A202603003** cho lab thiết kế Human–AI. Tôi dùng cùng một bài học 94 slide để so sánh ba cách chia việc giữa người học và hệ thống: tự chọn nội dung, duyệt gợi ý, hoặc nhận ghi chú tự động. File [prototype.html](prototype.html) là bản có thể thao tác; [slide PowerPoint](note-mockup-llms.pptx) là hình minh họa để trình bày.
+Đây là bài nộp cá nhân của **Nguyễn Thành Tiến — 2A202603003** cho lab thiết kế Human–AI. Tôi dùng cùng một bài học 94 slide để so sánh ba cách chia việc giữa người học và hệ thống: tự chọn nội dung, duyệt gợi ý, hoặc nhận ghi chú tự động. File [prototype.html](prototype.html) là bản có thể thao tác.
 
 ## 1. Thông tin bài làm
 

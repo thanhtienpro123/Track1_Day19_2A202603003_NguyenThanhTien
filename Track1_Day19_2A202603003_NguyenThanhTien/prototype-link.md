@@ -10,4 +10,4 @@ Mở [prototype.html](prototype.html) bằng Google Chrome trên máy. Để ả
 
 **Nhiệm vụ chung để thử:** “Bạn vừa học xong bài Introduction to LLMs. Hãy dùng từng cách để tạo một ghi chú bạn sẽ muốn giữ lại khi ôn. Hãy sửa chỗ nào chưa đúng với ý mình.”
 
-Dùng nút **Trước/Sau** hoặc nhập số trang ở cột giữa. Bấm nút trang nguồn trong ghi chú để trở lại slide liên quan. Nút **Đặt lại bài thử** xóa dữ liệu đã lưu của A/B/C. [PDF gốc](Introduction-to-LLMs.pdf) dùng để đối chiếu; [slide PowerPoint](note-mockup-llms.pptx) chỉ là hình trình bày.
+Dùng nút **Trước/Sau** hoặc nhập số trang ở cột giữa. Bấm nút trang nguồn trong ghi chú để trở lại slide liên quan. Nút **Đặt lại bài thử** xóa dữ liệu đã lưu của A/B/C. [PDF gốc](Introduction-to-LLMs.pdf) dùng để đối chiếu.

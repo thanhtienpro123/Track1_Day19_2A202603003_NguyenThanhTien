@@ -24,4 +24,4 @@ Tôi cũng xem lại B sau khi có gợi ý: nếu AI không nêu một chủ đ
 
 ## Phạm vi sử dụng AI trong bản này
 
-Prototype dùng quy tắc và canned output trên nội dung PDF mẫu, không có mô hình AI hay API trực tuyến. AI hỗ trợ viết và rà tài liệu; các lượt trong Feedback Note là thao tác kiểm thử kịch bản trên sản phẩm, không phải lời trích dẫn của người tham gia Day 17. Tài liệu phỏng vấn Day 17 được dùng đúng phạm vi như dấu vết khởi đầu cho giả thuyết.
+Prototype dùng quy tắc và canned output trên nội dung PDF mẫu, không có mô hình AI hay API trực tuyến. AI hỗ trợ viết và rà tài liệu; một lượt trong Feedback Note là thao tác kiểm thử kịch bản trên sản phẩm, không phải lời trích dẫn của người tham gia Day 17. Tài liệu phỏng vấn Day 17 được dùng đúng phạm vi như dấu vết khởi đầu cho giả thuyết.

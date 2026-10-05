@@ -32,7 +32,7 @@ Tôi giữ Case B từ Day 17, chốt cùng một vấn đề và một bài h�
 
 ## 5. Prototype Feedback và Next Change
 
-[Feedback Note](prototype-feedback-note.md) ghi ba lượt kiểm thử kịch bản trên cùng bài học, theo trình tự thao tác, điểm vướng và cách phục hồi. [Group Feedback Synthesis](group-feedback-synthesis.md) so sánh ba lượt và chốt **một thay đổi tiếp theo**: đọc được nhiều hơn từ các slide có hình hoặc sơ đồ trước khi mở rộng cách C. Điểm vẫn cần kiểm tra ở vòng sử dụng tiếp theo là người học có đối chiếu trang nguồn và thấy ghi chú đủ hữu ích khi ôn bài thật hay không.
+[Feedback Note](prototype-feedback-note.md) ghi **một lượt kiểm thử A/B/C** trên cùng bài học, theo trình tự thao tác, điểm vướng và cách phục hồi. [Group Feedback Synthesis](group-feedback-synthesis.md) so sánh ba cơ chế trong lượt đó và chốt **một thay đổi tiếp theo**: đọc được nhiều hơn từ các slide có hình hoặc sơ đồ trước khi mở rộng cách C. Điểm vẫn cần kiểm tra ở vòng sử dụng tiếp theo là người học có đối chiếu trang nguồn và thấy ghi chú đủ hữu ích khi ôn bài thật hay không.
 
 ## 6. AI Support Log
 

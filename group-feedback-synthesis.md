@@ -1,19 +1,21 @@
-# Group Feedback Synthesis — so sánh ba lượt kiểm thử
+# Group Feedback Synthesis — một lượt thử, ba cơ chế
 
-Tên file theo cấu trúc Day 19. Bài này do **Nguyễn Thành Tiến** thực hiện cá nhân; bảng tổng hợp ba lượt kiểm thử kịch bản đã ghi trong [Prototype Feedback Note](prototype-feedback-note.md). Mỗi lượt dùng cùng nhiệm vụ và thử cả A/B/C, nhưng nhấn vào một nhu cầu ôn khác nhau.
+Tên file giữ theo cấu trúc Day 19. Bản tổng hợp này đối chiếu **A/B/C trong một lượt kiểm thử kịch bản** được ghi tại [Prototype Feedback Note](prototype-feedback-note.md). Cùng một bài LLM và cùng nhiệm vụ được dùng cho cả ba; bảng dưới đây so sánh cách mỗi cơ chế đưa người học tới ghi chú.
 
-| Nội dung | Feedback 1 — khái niệm nền | Feedback 2 — chỗ chưa hiểu | Feedback 3 — ý dễ bỏ sót | Pattern hoặc khác biệt |
-| --- | --- | --- | --- | --- |
-| First action | A chọn trang 6; B nhìn gợi ý mô hình ngôn ngữ; C đã có nháp. | A đánh dấu trang 14 là chưa hiểu; B giữ gợi ý huấn luyện; C đọc câu hỏi sẵn. | A chọn trang 83; B thêm trang 83; C kiểm tra mục distillation. | C giảm thao tác bắt đầu; A đòi người học chỉ rõ nội dung; B có bước duyệt. |
-| Breakdown chính | A cần đến đúng slide; B cần hai bước trước khi có note. | Câu hỏi C có thể không trùng điều muốn hỏi; B không tự biết thắc mắc cá nhân. | Đường thêm slide của B nằm ở cột giữa; C phụ thuộc vào chữ trích. | Điểm vướng đổi theo cơ chế, không thể sửa bằng màu hay wording đơn thuần. |
-| Evidence và control | A/B/C đều có trang nguồn; cả ba cho sửa và xác nhận. | A tách **Chưa hiểu**; C cho bỏ và tạo lại. | B thêm nguồn trang 83; C có trang 83–84. | Nguồn và nút sửa là lớp kiểm soát chung cần giữ. |
-| Option hợp nhu cầu thử | A cho một trang cụ thể. | A nếu câu hỏi đã rõ; B nếu cần gợi ý chủ đề. | B nếu gợi ý bỏ sót một trang; C nếu cần bản toàn bài. | Không có một option vượt trội cho mọi tình huống. |
-| Trade-off | A chính xác nhưng chậm; C nhanh nhưng rộng. | Gợi ý nhanh nhưng có thể lệch thắc mắc thật. | B sửa được omission; C có rủi ro với hình/sơ đồ. | Tốc độ tăng khi hệ thống chủ động hơn, cùng với nhu cầu kiểm tra đầu ra. |
+| Tiêu chí | A — Tôi chọn trước | B — AI gợi ý trước | C — AI tự tạo ngay |
+| --- | --- | --- | --- |
+| First action | Tìm trang 6 và 14, đánh dấu **Giữ/Chưa hiểu**. | Xem gợi ý, giữ ý mô hình ngôn ngữ, thêm trang 83. | Đọc ghi chú tự hiện khi mở C. |
+| Điểm vướng | Phải tự tìm và chọn trang trước khi có note. | Gợi ý bỏ sót trang 83; nút thêm trang nằm ở cột giữa. | Ghi chú đã hiện nhưng chưa chắc bao quát hình/sơ đồ. |
+| Evidence | Trang 6 và 14 được ghi rõ. | Trang của gợi ý và trang 83 được ghi rõ. | Các chủ đề có nút về trang nguồn. |
+| Recovery | Đổi đánh dấu, tổng hợp lại hoặc sửa note. | Thêm/bỏ trang, tạo lại hoặc sửa note. | Mở nguồn, sửa, bỏ nháp hoặc tạo lại. |
+| Trade-off | Kiểm soát nội dung cao, tốn công chọn. | Có điểm bắt đầu nhanh và vẫn bổ sung được ý thiếu. | Ít thao tác nhất, cần kiểm tra đầu ra kỹ nhất. |
+
+**Kết luận cho nhiệm vụ thử:** B đáp ứng được cả ý hệ thống gợi và trang 83 cần bổ sung. A và C vẫn có vai trò riêng: A cho nhu cầu chọn rất cụ thể, C cho nhu cầu nhận bản nháp toàn bài ngay. Một lượt thử không dùng để xếp hạng giá trị của ba cách cho mọi người học.
 
 ## Một Next Change
 
-**Ưu tiên cải thiện việc lấy nội dung từ các slide chứa hình hoặc sơ đồ, rồi rà lại ghi chú C dựa trên trang nguồn.** Trong PDF mẫu có các trang ít chữ trích được dù hình minh họa mang thông tin. C hiện tạo nháp từ phần chữ đã trích; nếu mở rộng sang bài khác trước khi xử lý điểm này, ghi chú có thể trông đầy đủ nhưng thiếu ý quan trọng. Sau thay đổi, thử lại ba cơ chế với cùng một bài học mới để xem người học có phát hiện và sửa được chỗ thiếu hay không.
+**Cải thiện việc lấy nội dung trong hình và sơ đồ trước khi mở rộng C sang bài học khác.** Hiện C tạo ghi chú từ chữ đã trích của PDF mẫu. Trang có hình mang thông tin nhưng ít chữ có thể bị tóm tắt thiếu. Sau khi cải thiện, kiểm tra lại bản tự tạo bằng cách đối chiếu từng ý với slide nguồn.
 
 ## Still Unproven
 
-Ba lượt kiểm thử này cho thấy luồng thao tác và quyền kiểm soát trong bản mẫu. Chúng chưa chứng minh rằng người học sẽ dùng ghi chú khi ôn thật, thấy bản tự tạo đáng tin hơn bản tự chọn, hoặc tiết kiệm được thời gian học. Đó là các câu hỏi cần đo trong lần thử với người học ở bối cảnh sử dụng thực tế.
+Lượt thử này cho thấy luồng A/B/C và cách sửa khi ghi chú chưa đúng. Tác dụng của ghi chú khi ôn bài thật, thời gian tiết kiệm được và mức độ người học tin vào bản tự tạo vẫn là các câu hỏi cho vòng sử dụng tiếp theo.

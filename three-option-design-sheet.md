@@ -74,4 +74,4 @@ File [prototype.html](prototype.html) chứa ba luồng trong một giao diện.
 
 ## Chặng 6 — Feedback và một Next Change
 
-[Prototype Feedback Note](prototype-feedback-note.md) ghi ba lượt chạy kịch bản khác nhau trên cùng A/B/C, với thao tác quan sát được và diễn giải tách riêng. [Group Feedback Synthesis](group-feedback-synthesis.md) đặt ba lượt cạnh nhau để thấy trade-off. Quyết định cho vòng sau là **cải thiện việc nhận nội dung trong hình/sơ đồ của PDF trước khi mở C cho bài khác**, vì hiện C chỉ dùng chữ trích. Điều chưa chứng minh là người học có dùng ghi chú này khi ôn thật và chấp nhận mức độ tự động nào.
+[Prototype Feedback Note](prototype-feedback-note.md) ghi **một lượt chạy cả A/B/C**, với thao tác và diễn giải tách riêng. [Group Feedback Synthesis](group-feedback-synthesis.md) so sánh ba cơ chế trong lượt đó để thấy trade-off. Quyết định cho vòng sau là **cải thiện việc nhận nội dung trong hình/sơ đồ của PDF trước khi mở C cho bài khác**, vì hiện C chỉ dùng chữ trích. Điều chưa chứng minh là người học có dùng ghi chú này khi ôn thật và chấp nhận mức độ tự động nào.

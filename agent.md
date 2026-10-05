@@ -16,7 +16,7 @@ Giữ bài nộp cá nhân của **Nguyễn Thành Tiến — 2A202603003** theo
 
 1. Giữ lời kể Day 17 riêng với diễn giải. Các chi tiết trong một Interview Record không được trình bày thành nhiều người tham gia.
 2. Feedback Note ghi thao tác kiểm thử và kết quả giao diện trước, rồi mới diễn giải và chốt Next Change. Không tạo lời trích dẫn hoặc hành vi của người ngoài chưa được quan sát.
-3. Synthesis so sánh ba lượt theo cùng tiêu chí: first action, breakdown, evidence/control, trade-off, Next Change và Still Unproven.
+3. Feedback Note chỉ ghi một lượt thử A/B/C. Synthesis so sánh ba cơ chế trong lượt đó theo cùng tiêu chí: first action, breakdown, evidence/control, trade-off, Next Change và Still Unproven.
 4. AI Support Log phải nói rõ AI hỗ trợ gì và phần AI trong prototype được mô phỏng như thế nào.
 
 ## Kiểm tra trước khi xuất bộ nộp
